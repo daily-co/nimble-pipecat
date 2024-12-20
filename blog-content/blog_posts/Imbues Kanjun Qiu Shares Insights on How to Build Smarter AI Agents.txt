@@ -1,0 +1,41 @@
+Imagine a future in which everyone is empowered to build and use their own AI agents. That future may not be far off, as new software is infused with intelligence through collaborative AI systems that work alongside users rather than merely automating tasks.
+
+In this episode of the [NVIDIA AI Podcast](https://blogs.nvidia.com/ai-podcast/), Kanjun Qiu, CEO of [Imbue](https://imbue.com/), discusses the rise of AI agents, drawing parallels between the personal computer revolution of the late 1970s and 80s and today’s AI agent transformation. She details Imbue’s approach to building reasoning capabilities into its products, the challenges of verifying the correctness of AI outputs and how Imbue is focusing on post-training and fine-tuning to improve verification capabilities.
+
+[The AI Podcast](https://soundcloud.com/theaipodcast "The AI Podcast") · [Imbue CEO Kanjun Qiu on Transforming AI Agents Into Personal Collaborators – Ep. 239](https://soundcloud.com/theaipodcast/ai-agents-kanjun-qiu/s-RTmUI6l8hUv "Imbue CEO Kanjun Qiu on Transforming AI Agents Into Personal Collaborators - Ep. 239")
+
+Learn more about [Imbue](https://imbue.com/), and read more about AI agents, including [how virtual assistants can enhance customer service experiences](https://blogs.nvidia.com/blog/ai-agents-customer-service/).
+
+And hear more about the future of AI and graphics by tuning in to the [CES keynote](https://www.nvidia.com/en-us/events/ces/), delivered by NVIDIA founder and CEO Jensen Huang live in Las Vegas on Monday, Jan. 6, at 6:30 p.m. PT.
+
+## **Time Stamps**
+
+1:21 – What are AI agents? And Imbue’s approach to them.
+
+9:00 – Where are AI agents being used the most today?
+
+17:05 – Why building a good user experience around agents requires invention.
+
+26:28 – How reasoning and verification capabilities factor into Imbue’s products.
+
+## **You Might Also Like…**
+
+[Zoom CTO Xuedong “XD” Huang on How AI Revolutionizes Productivity ](https://on.soundcloud.com/cWyBWFbEPoHnEJBL8)
+
+Zoom is now transforming into an AI-first platform. CTO Xuedong Huang discusses Zoom’s AI Companion 2.0 and the company’s “federated AI” strategy, which aims to integrate multiple large language models to enhance productivity and collaboration.
+
+[How Roblox Uses Generative AI to Enhance User Experiences](https://on.soundcloud.com/J2oVJ4EaM27j8yie9)
+
+Roblox is enhancing its colorful online platform with generative AI to improve user safety and inclusivity through features like automated chat filters and real-time text translation. Anupam Singh, VP of AI and growth engineering at Roblox, explores how AI coding assistants are helping creators focus more on creative expression.
+
+[Rendered.ai CEO Nathan Kundtz on Using AI to Build Better AI](https://on.soundcloud.com/xohTdKo1v1EL4R7T7)
+
+Data is crucial for training AI and machine learning systems, and synthetic data offers a solution to the challenges of compiling real-world data. Nathan Kundtz, founder and CEO of Rendered.ai, discusses how his company’s platform generates synthetic data to enhance AI models.
+
+## **Subscribe to the AI Podcast**
+
+Get the [AI Podcast](https://blogs.nvidia.com/ai-podcast/) through [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-podcast/id1186480811), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI2NDAzNDEzMy9zb3VuZHMucnNz), [Google Play](https://play.google.com/music/listen?u=0#/ps/I4kyn74qfrsdhrm35mcrf3igxzm), [Castbox](https://castbox.fm/channel/The-AI-Podcast-id433488?country=us), DoggCatcher, [Overcast](https://overcast.fm/itunes1186480811/the-ai-podcast), [PlayerFM](https://player.fm/series/the-ai-podcast), Pocket Casts, [Podbay](http://www.podbay.fm/show/1186480811), [PodBean](https://www.podbean.com/podcast-detail/cjgnp-4a6e0/The-AI-Podcast), PodCruncher, PodKicker, [Soundcloud](https://soundcloud.com/theaipodcast), [Spotify](https://open.spotify.com/show/4TB4pnynaiZ6YHoKmyVN0L), [Stitcher](http://www.stitcher.com/s?fid=130629&refid=stpr) and [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/The-AI-Podcast-p940829/).
+
+Categories: [The AI Podcast](https://blogs.nvidia.com/blog/category/generative-ai/the-ai-podcast/)
+
+Tags: [Artificial Intelligence](https://blogs.nvidia.com/blog/tag/artificial-intelligence/)

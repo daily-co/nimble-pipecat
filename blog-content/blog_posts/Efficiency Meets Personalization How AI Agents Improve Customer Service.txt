@@ -1,0 +1,73 @@
+_Editor’s note: This post is the first in the_ _AI On_ _blog series, which explores the latest techniques and real-world applications of agentic AI, chatbots and copilots. The series will also highlight the NVIDIA software and hardware powering advanced AI agents, which form the foundation of AI query engines that gather insights and perform tasks to transform everyday experiences and reshape industries._
+
+Whether it’s getting a complex service claim resolved or having a simple purchase inquiry answered, customers expect timely, accurate responses to their requests.
+
+AI agents can help organizations meet this need. And they can grow in scope and scale as businesses grow, helping keep customers from taking their business elsewhere.
+
+AI agents can be used as virtual assistants, which use [artificial intelligence](https://www.nvidia.com/en-us/glossary/data-science/artificial-intelligence/) and [natural language processing](https://www.nvidia.com/en-us/glossary/data-science/natural-language-processing/) to handle high volumes of customer service requests. By automating routine tasks, AI agents ease the workload on human agents, allowing them to focus on tasks requiring a more personal touch.
+
+[AI-powered customer service](https://www.nvidia.com/en-us/use-cases/ai-for-customer-support/) tools like chatbots have become table stakes across every industry looking to increase efficiency and keep buyers happy. According to a recent IDC study on [conversational AI](https://www.nvidia.com/en-us/glossary/conversational-ai/), 41% of organizations use AI-powered copilots for customer service and 60% have implemented them for IT help desks.
+
+Now, many of those same industries are looking to adopt [agentic AI](https://blogs.nvidia.com/blog/what-is-agentic-ai/), semi-autonomous tools that have the ability to perceive, reason and act on more complex problems.
+
+## How AI Agents Enhance Customer Service
+
+A primary value of AI-powered systems is the time they free up by automating routine tasks. AI agents can perform specific tasks, or agentic operations, essentially becoming part of an organization’s workforce — working alongside humans who can focus on more complex customer issues.
+
+AI agents can handle predictive tasks and problem-solve, can be trained to understand industry-specific terms and can pull relevant information from an organization’s knowledge bases, wherever that data resides.
+
+With AI agents, companies can:
+
+  * **Boost efficiency:** AI agents handle common questions and repetitive tasks, allowing support teams to prioritize more complicated cases. This is especially useful during high-demand periods.
+  * **Increase customer satisfaction:** Faster, more personalized interactions result in happier and more loyal customers. Consistent and accurate support improves customer sentiment and experience.
+  * **Scale Easily:** Equipped to handle high volumes of customer support requests, AI agents scale effortlessly with growing businesses, reducing customer wait times and resolving issues faster.
+
+
+
+## AI Agents for Customer Service Across Industries
+
+AI agents are [transforming customer service](https://www.nvidia.com/en-us/use-cases/ai-for-customer-support/) across sectors, helping companies enhance customer conversations, achieve high-resolution rates and improve human representative productivity.
+
+For instance, ServiceNow recently introduced IT and customer service management [AI agents](https://www.servicenow.com/products/ai-agents.html) to boost productivity by autonomously solving many employee and customer issues. Its agents can understand context, create step-by-step resolutions and get live agent approvals when needed.
+
+To improve patient care and reduce preprocedure anxiety, [The Ottawa Hospital is using AI agents](https://www.ottawahospital.on.ca/en/newsroom/the-ottawa-hospital-introduces-ai-powered-digital-teammate-to-share-information-with-staff-patients-and-visitors/) that have consistent, accurate and continuous access to information. The agent has the potential to improve patient care and reduce administrative tasks for doctors and nurses.
+
+The city of Amarillo, Texas, uses a [multilingual digital assistant named Emma](https://www.dell.com/en-us/dt/case-studies-customer-stories/city-of-amarillo-genai.htm) to provide its residents with 24/7 support. Emma brings more effective and efficient disbursement of important information to all residents, including the one-quarter who don’t speak English.
+
+AI agents meet current customer service demands while preparing organizations for the future.
+
+## Key Steps for Designing AI Virtual Assistants for Customer Support
+
+AI agents for customer service come in a wide range of designs, from simple text-based virtual assistants that resolve customer issues, to animated avatars that can provide a more human-like experience.
+
+Digital human interfaces can add warmth and personality to the customer experience. These agents respond with spoken language and even animated avatars, enhancing service interactions with a touch of real-world flair. A [digital human interface](https://developer.nvidia.com/blog/build-a-digital-human-interface-for-ai-apps-with-an-nvidia-nim-agent-blueprint/) lets companies customize the assistant’s appearance and tone, aligning it with the brand’s identity.
+
+There are three key building blocks to [creating an effective AI agent for customer service](https://developer.nvidia.com/blog/three-building-blocks-for-creating-ai-virtual-assistants-for-customer-service-with-an-nvidia-nim-agent-blueprint/):
+
+  * **Collect and organize customer data:** AI agents need a solid base of customer data (such as profiles, past interactions, and transaction histories) to provide accurate, context-aware responses.
+  * **Use memory functions for personalization:** Advanced AI systems remember past interactions, allowing agents to deliver personalized support that feels human.
+  * **Build an operations pipeline:** Customer service teams should regularly review feedback and update the AI agent’s responses to ensure it’s always improving and aligned with business goals.
+
+
+
+## Powering AI Agents With NVIDIA NIM Microservices
+
+[NVIDIA NIM microservices](http://ai.nvidia.com) power AI agents by enabling natural language processing, contextual retrieval and multilingual communication. This allows AI agents to deliver fast, personalized and accurate support tailored to diverse customer needs.
+
+Key NVIDIA NIM microservices for customer service agents include:
+
+[**NVIDIA NIM for Large Language Models**](https://build.nvidia.com/explore/reasoning) — Microservices that bring advanced language models to applications and enable complex reasoning, so AI agents can understand complicated customer queries.
+
+[**NVIDIA NeMo Retriever NIM**](https://build.nvidia.com/explore/retrieval) — Embedding and reranking microservices that support retrieval-augmented generation pipelines allow virtual assistants to quickly access enterprise knowledge bases and boost retrieval performance by ranking relevant knowledge-base articles and improving context accuracy.
+
+[**NVIDIA NIM for Digital Humans**](https://build.nvidia.com/explore/discover/digital-humans) — Microservices that enable intelligent, interactive avatars to understand speech and respond in a natural way. [NVIDIA Riva NIM microservices](https://build.nvidia.com/explore/speech) for [text-to-speech](https://www.nvidia.com/en-us/glossary/text-to-speech/), [automatic speech recognition](https://www.nvidia.com/en-us/glossary/speech-to-text/) (ASR), and translation services enable AI agents to communicate naturally across languages. The recently released Riva NIM microservices for ASR enable additional multilingual enhancements. To build realistic avatars, Audio2Face NIM converts streamed audio to facial movements for real-time lip syncing. [2D and 3D Audio2Face NIM](https://developer.nvidia.com/blog/expanding-ai-agent-interface-options-with-2d-and-3d-digital-human-avatars/) microservices support varying use cases.
+
+## Getting Started With AI Agents for Customer Service
+
+[NVIDIA AI Blueprints](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/) make it easy to start building and setting up virtual assistants by offering ready-made workflows and tools to accelerate deployment. Whether for a simple AI-powered chatbot or a fully animated digital human interface, the blueprints offer resources to create AI assistants that are scalable, aligned with an organization’s brand and deliver a responsive, efficient customer support experience.
+
+_Editor’s note: IDC figures are sourced to IDC, Market Analysis Perspective: Worldwide Conversational AI Tools and Technologies, 2024 US51619524, Sept 2024_
+
+Categories: [Generative AI](https://blogs.nvidia.com/blog/category/generative-ai/)
+
+Tags: [Artificial Intelligence](https://blogs.nvidia.com/blog/tag/artificial-intelligence/) | [Conversational AI](https://blogs.nvidia.com/blog/tag/conversational-ai/) | [NVIDIA AI Blueprint](https://blogs.nvidia.com/blog/tag/nvidia-ai-blueprint/) | [NVIDIA NeMo](https://blogs.nvidia.com/blog/tag/nvidia-nemo/) | [NVIDIA NIM](https://blogs.nvidia.com/blog/tag/nvidia-nim/) | [Riva](https://blogs.nvidia.com/blog/tag/riva/)

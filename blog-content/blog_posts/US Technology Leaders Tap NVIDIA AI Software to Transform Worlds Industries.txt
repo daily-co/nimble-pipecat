@@ -1,0 +1,314 @@
+# US Technology Leaders Tap NVIDIA AI Software to Transform World’s Industries
+
+[ Artificial Intelligence Computing Leadership from NVIDIA ](https://www.nvidia.com/en-us)
+
+[ ](/search)
+
+PLATFORMS
+
+[ ![Autonomous Machines](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/intelligent-machines.png) Autonomous Machines ](https://www.nvidia.com/en-us/autonomous-machines/)
+
+[ ![Cloud & Data Center](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/data-center.png) Cloud & Data Center ](https://www.nvidia.com/en-us/data-center/)
+
+[ ![Deep Learning & Ai](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/ai-deeplearning.png) Deep Learning & Ai ](https://www.nvidia.com/en-us/deep-learning-ai/)
+
+[ ![Design & Pro Visualization](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/design-visualization.png) Design & Pro Visualization ](https://www.nvidia.com/en-us/design-visualization/)
+
+[ ![Healthcare](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/healthcare.jpg) Healthcare ](https://www.nvidia.com/en-us/healthcare/)
+
+[ ![High Performance Computing](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/hpc-nvidia-mega-menu-image-hpc-188x106.jpg) High Performance Computing ](https://www.nvidia.com/en-us/high-performance-computing/)
+
+[ ![Self-Driving Cars](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/self-driving-cars.png) Self-Driving Cars ](https://www.nvidia.com/en-us/self-driving-cars/)
+
+[ ![Gaming & Entertainment](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/geforce.png) Gaming & Entertainment ](https://www.nvidia.com/en-us/geforce/)
+
+other links
+
+  * [Developers](https://developer.nvidia.com/)
+  * [Industries](https://www.nvidia.com/en-us/industries/)
+  * [Shop](https://www.nvidia.com/en-us/shop/)
+  * [Drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
+  * [Support](https://www.nvidia.com/object/support.html)
+  * [About NVIDIA](https://www.nvidia.com/en-us/about-nvidia/)
+
+
+  * [View All Products](https://www.nvidia.com/page/products.html)
+  * [GPU TECHNOLOGY CONFERENCE](https://www.nvidia.com/en-us/gtc/)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [Community](https://www.nvidia.com/object/nvidia-communities.html)
+  * [Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+  * [TECHNOLOGIES](https://www.nvidia.com/en-us/technologies/)
+
+
+
+[ Newsroom ](/)
+
+[NVIDIA in Brief](/_gallery/get_file/?file_id=62acc991b3aed36cab48537d&ir=1&file_ext=.pdf)
+
+[Exec Bios](/bios)
+
+[NVIDIA Blog](https://blogs.nvidia.com/)
+
+[Podcast](https://blogs.nvidia.com/ai-podcast/)
+
+[Media Assets](/multimedia)
+
+[In the News](/in-the-news)
+
+[Press Contacts](/contacts)
+
+[Online Press Kits](/online-press-kit)
+
+  * [NVIDIA in Brief](/_gallery/get_file/?file_id=62acc991b3aed36cab48537d&ir=1&file_ext=.pdf)
+  * [Exec Bios](/bios)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [Podcast](https://blogs.nvidia.com/ai-podcast/)
+  * [Media Assets](/multimedia)
+  * [In the News](/in-the-news)
+  * [Press Contacts](/contacts)
+  * [Online Press Kits](/online-press-kit)
+
+
+
+Press Release 
+
+Share
+
+[ Tweet Twitter ](http://twitter.com/share?text=US%20Technology%20Leaders%20Tap%20NVIDIA%20AI%20Software%20to%20Transform%20World%E2%80%99s%20Industries&url=http://nvidianews.nvidia.com/news/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries)
+
+[ Share LinkedIn ](https://www.linkedin.com/shareArticle?mini=true&url=http://nvidianews.nvidia.com/news/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries)
+
+[ Share Facebook ](http://www.facebook.com/sharer.php?u=http://nvidianews.nvidia.com/news/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries)
+
+[ Email ](mailto:?subject=US Technology Leaders Tap NVIDIA AI Software to Transform World’s Industries=http://nvidianews.nvidia.com/news/us-technology-leaders-tap-nvidia-ai-software-to-transform-worlds-industries)
+
+ic_arrow-back-to-top
+
+# US Technology Leaders Tap NVIDIA AI Software to Transform World’s Industries
+
+October 8, 2024 
+
+[ ![US Technology Leaders Tap NVIDIA AI Software to Transform World’s Industries](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20249/67044a1f3d6332ad4035c06c_NVIDIA+AI+Software+Image/NVIDIA+AI+Software+Image_mid.jpg) ](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20249/NVIDIA+AI+Software+Image.jpg)
+
+U.S. technology leaders tap NVIDIA AI software to transform industries worldwide. 
+
+  * _AT &T, Lowe's, University of Florida Among First Organizations Using NVIDIA NeMo_
+  * _Accenture, Deloitte, Quantiphi, SoftServe Tap NVIDIA NeMo, NIM Microservices and NIM Agent Blueprints to Create Custom Generative AI Agents for Clients_
+  * _Cloudera, DataStax, Google Cloud, NetApp, SAP, ServiceNow, Teradata Advance Data and AI Platforms With NIM_
+
+
+
+**NVIDIA****AI Summit****--  **NVIDIA today announced it is teaming with U.S. technology leaders to help organizations create custom AI applications and transform the world's industries using the latest [_NVIDIA NIM ™ Agent Blueprints_](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/) and [_NVIDIA NeMo_](https://www.nvidia.com/en-us/ai-data-science/products/nemo/)™ and [_NVIDIA NIM_](https://www.nvidia.com/en-us/ai/) microservices.
+
+Across industries, organizations like AT&T, Lowe's and the University of Florida are using the microservices to create their own data-driven AI flywheels to power custom generative AI applications.
+
+U.S. technology consulting leaders Accenture, Deloitte, [_Quantiphi_](https://quantiphi.com/quantiphi-empowers-enterprise-ai-transformation-with-nvidia-nim-agent-blueprints/) and SoftServe are adopting NVIDIA NIM Agent Blueprints and NVIDIA NeMo and NIM microservices to help clients in healthcare, manufacturing, telecommunications, financial services and retail create custom generative AI agents and copilots.
+
+Data and AI platform leaders [_Cadence_](https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/nvidia-ai-microservices), [_Cloudera_](https://www.cloudera.com/about/news-and-blogs/press-releases/2024-10-08-cloudera-unveils-ai-inference-service-with-embedded-nvidia-nim-microservices-to-accelerate-genai-development-and-deployment.html), DataStax, [_Google Cloud_](https://cloud.google.com/blog/products/containers-kubernetes/nvidia-nims-are-available-on-gke), NetApp, SAP, [_ServiceNow_](https://www.servicenow.com/blogs/2024/put-ai-work-people-across-industries) and [_Teradata_](https://www.teradata.com/press-releases/2024/teradata-makes-real-world-genai-easier)are advancing their data and AI platforms with NVIDIA NIM.
+
+"AI is driving transformation and shaping the future of global industries," said Jensen Huang, founder and CEO of NVIDIA. "In collaboration with U.S. companies, universities and government agencies, NVIDIA will help advance AI adoption to boost productivity and drive economic growth."
+
+**NVIDIA NeMo Microservices for Precision-Tailored Generative AI**  
+NVIDIA NeMo microservices support end-to-end model customization workflows and the development of AI agents to help enterprises bring custom generative AI applications to market faster, reducing development costs.
+
+New [_NeMo microservices_](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) -- NeMo Customizer, NeMo Evaluator and NeMo Guardrails -- can be paired with NIM microservices to help developers easily curate data at scale, customize and evaluate models, and manage responses to align with business objectives. Developers can then seamlessly deploy a custom NIM microservice across any GPU-accelerated cloud, data center or workstation.
+
+**New NVIDIA NIM Agent Blueprint for Software Security Now Available**  
+To provide a jump-start for developers, NVIDIA offers [_NIM Agent Blueprints_](http://build.nvidia.com) -- reference workflows that provide a guide for developing applications built with NVIDIA NeMo and NIM microservices.
+
+NIM Agent Blueprints help accelerate AI deployments for key enterprise use cases, including drug discovery, customer service and data extraction. A new [_blueprint for software container security_](http://build.nvidia.com/nvidia/vulnerability-analysis-for-container-security) is available today.
+
+Developers can experiment with NeMo and NIM microservices, as well as NVIDIA NIM Agent Blueprints, at no charge. Enterprises can deploy applications in production with enterprise-grade security, support and stability through the [_NVIDIA AI Enterprise_](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/) software platform.
+
+**NVIDIA Microservices Build Custom AI Agents for Industries**  
+Leaders across industries are using NVIDIA AI to improve telecommunications, education and security.
+
+  * AT&T is working with Quantiphi to build a conversational platform, using NVIDIA NIM, that can support employees with software development, network engineering and financial services tasks.
+  * The University of Florida has adopted NVIDIA NIM and NeMo to advance its learning management system, based on retrieval-augmented generation, that helps teaching assistants improve student success and retention.
+  * Lowe's, a FORTUNE 50 home improvement company, is exploring the use of NVIDIA NIM and NeMo microservices to improve experiences for associates and customers and enhance productivity of their store associates. For example, the retailer is leveraging NVIDIA NeMo Guardrails to enhance the safety and security of its generative AI solution platform.
+
+
+
+**Global Consulting Giants Accelerate AI Adoption With NeMo**  
+NVIDIA global service provider and service delivery partners are helping companies across industries use NVIDIA NeMo and NIM microservices and NIM Agent Blueprints to build custom AI applications that tap into business data.
+
+  * Accenture is helping clients build domain-specific AI agents using NVIDIA NeMo and NIM microservices through its AI Refinery™ and the [_Accenture NVIDIA Business Group_](https://newsroom.accenture.com/news/2024/accenture-and-nvidia-lead-enterprises-into-era-of-ai).
+  * Deloitte is integrating the latest NVIDIA NIM Agent Blueprint into its cybersecurity solutions, which will help enterprises accelerate software vulnerability analysis and mitigation at scale.
+  * SoftServe's generative AI Industrial Assistant, which uses NeMo and NIM microservices, improves safety and efficiency in industrial manufacturing by making equipment manuals more accessible and providing factory workers real-time guidance on troubleshooting and maintenance.
+
+
+
+**Data and AI Platforms Advance Insight With NeMo and NIM Microservices**  
+NVIDIA AI ecosystem partners Cadence, Cloudera, DataStax, Google Cloud, NetApp, SAP, ServiceNow and Teradata are using NeMo and NIM microservices to build customized generative AI applications with optimized inference.
+
+  * Cloudera today unveiled an AI Inference Service with embedded NIM that will allow developers to build, customize and deploy enterprise-grade large language models with up to 36x faster inference performance.
+  * Google Cloud is integrating NIM into [_Google Kubernetes Engine_](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcloud.google.com%2Fkubernetes-engine&data=05%7C02%7Csgartner%40nvidia.com%7Ce9066070cf7943e166fa08dce3c714a1%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C638635691424642305%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=IrtwWAyHsuRFAnLWJPMIOA%2FYSUke3S%2B2EohfK2Z8uNA%3D&reserved=0) to provide enterprise customers with a simplified path for deploying optimized models directly from the Google Cloud Marketplace.
+  * SAP will use NIM microservices to deploy custom generative AI applications for its clients.
+  * ServiceNow is one of the first to adopt NeMo and NIM microservices, and recently announced its plans to also adopt NVIDIA NIM Agent Blueprints to power generative AI use cases for several U.S. government agencies. ServiceNow's technology also enables organizations to create custom generative AI agents that can reinvent work across the entire enterprise.
+  * Teradata is integrating NVIDIA AI Enterprise into its Vantage platform to enable more efficient development and deployment of trusted generative AI applications.
+
+
+
+**Availability**  
+Developers can access NVIDIA AI software, including NIM microservices, through the [_NVIDIA API catalog_](http://ai.nvidia.com), as well as experiment with the microservices for free using an [_NVIDIA Developer_](https://developer.nvidia.com/developer-program) license.
+
+**About NVIDIA**  
+[_NVIDIA_](https://www.nvidia.com/) (NASDAQ: NVDA) is the world leader in accelerated computing.
+
+Certain statements in this press release including, but not limited to, statements as to: the benefits, impact, performance, features, and availability of NVIDIA's products and technologies, including NVIDIA NeMo and NIM microservices, NeMo Customizer, NeMo Evaluator, NeMo Guardrails, NIM Agent Blueprints, and NVIDIA AI Enterprise software platform; third parties using or adopting NVIDIA products, technologies and platforms, and the benefits and impacts thereof; our collaboration with third parties and the benefits and impacts thereof; NVIDIA global service provider and service delivery partners helping companies across industries use NVIDIA NeMo and NIM microservices and NIM Agent Blueprints to build custom AI applications that tap into business data; artificial intelligence driving transformations and shaping the future of industries; and working with our U.S. technology partners, NVIDIA helping the world build custom AI applications that serve unique industry needs and reflect local languages and cultures, as well as our core values of ethics and innovation that preserve American leadership in AI are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+(C) 2024 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, NVIDIA NeMo and NVIDIA NIM are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability and specifications are subject to change without notice.
+
+##  Media Contacts
+
+Anna Kiachian
+
+Senior PR Manager
+
+NVIDIA Corporation
+
++1-650-224-9820
+
+[akiachian@nvidia.com](mailto:akiachian@nvidia.com)
+
+##  Downloads
+
+  * [ Download Press Release ](/_gallery/download_pdf/67054e7c3d6332ec318de888/)
+  * [ Download Attachments ](/_gallery/get_files?page_id=67054e7c3d6332ec318de888&include=pdf)
+
+
+
+##  More Images
+
+  * [ ![NVIDIA AI Software](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20249/67044a1f3d6332ad4035c06c_NVIDIA+AI+Software+Image/NVIDIA+AI+Software+Image_mid.jpg) ](/file?fid=67044a1f3d6332ad4035c06c)
+
+#### NVIDIA AI Software
+
+U.S. technology leaders tap NVIDIA AI software to transform industries worldwide. 
+
+[Download / File Link](/_gallery/get_file/?file_id=67044a1f3d6332ad4035c06c)
+
+[ ![NVIDIA AI Software](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20249/67044a1f3d6332ad4035c06c_NVIDIA+AI+Software+Image/NVIDIA+AI+Software+Image_s.jpg) ](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20249/67044a1f3d6332ad4035c06c_NVIDIA+AI+Software+Image/NVIDIA+AI+Software+Image_mid.jpg)
+
+[ ](/_gallery/get_file/?file_id=67044a1f3d6332ad4035c06c)
+
+U.S. technology leaders tap NVIDIA AI software to transform industries worldwide.
+
+
+
+
+##  More News
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20238/64fb2f6c3d63327afeb2f77a_NVIDIA-logo-black/NVIDIA-logo-black_mid.jpg)
+
+###  [ NVIDIA to Open Vietnam R&D Center to Bolster AI Development ](/news/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development)
+
+December 5, 2024
+
+![](/media/themes/64d081263d633229694ae3db/images/NVIDIA-logo-BL.jpg)
+
+###  [ NVIDIA Announces Upcoming Events for Financial Community ](/news/nvidia-announces-upcoming-events-for-financial-community-6906508)
+
+November 21, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/66cf86f6ed6ae519a7aff483_nvidia-logo-exterior-park/nvidia-logo-exterior-park_mid.png)
+
+###  [ NVIDIA Announces Financial Results for Third Quarter Fiscal 2025 ](/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025)
+
+November 20, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/673aab433d6332640a65fb3f_nvidia-omniverse-blueprint/nvidia-omniverse-blueprint_mid.png)
+
+###  [ NVIDIA Announces Omniverse Real-Time Physics Digital Twins With Industry Software Leaders ](/news/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders)
+
+November 18, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/673aab513d633261c865fb40_nvidia-bionemo/nvidia-bionemo_mid.png)
+
+###  [ NVIDIA Opens BioNeMo to Scale Digital Biology for Global Biopharma and Scientific Industry ](/news/nvidia-opens-bionemo-to-scale-digital-biology-for-global-biopharma-and-scientific-industry)
+
+November 18, 2024
+
+**About NVIDIA**  
+[_NVIDIA_](https://www.nvidia.com/) (NASDAQ: NVDA) is the world leader in accelerated computing.
+
+Certain statements in this press release including, but not limited to, statements as to: the benefits, impact, performance, features, and availability of NVIDIA's products and technologies, including NVIDIA NeMo and NIM microservices, NeMo Customizer, NeMo Evaluator, NeMo Guardrails, NIM Agent Blueprints, and NVIDIA AI Enterprise software platform; third parties using or adopting NVIDIA products, technologies and platforms, and the benefits and impacts thereof; our collaboration with third parties and the benefits and impacts thereof; NVIDIA global service provider and service delivery partners helping companies across industries use NVIDIA NeMo and NIM microservices and NIM Agent Blueprints to build custom AI applications that tap into business data; artificial intelligence driving transformations and shaping the future of industries; and working with our U.S. technology partners, NVIDIA helping the world build custom AI applications that serve unique industry needs and reflect local languages and cultures, as well as our core values of ethics and innovation that preserve American leadership in AI are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+(C) 2024 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, NVIDIA NeMo and NVIDIA NIM are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability and specifications are subject to change without notice.
+
+##  Media Contacts
+
+Global contacts for media inquiries.
+
+[All Contacts](/contacts)
+
+##  Stay Informed
+
+Newsroom updates delivered to your inbox.
+
+[Subscribe](/alerts)
+
+Corporate Information
+
+  * [About NVIDIA](https://www.nvidia.com/en-us/about-nvidia/)
+  * [Corporate Overview](https://www.nvidia.com/en-us/about-nvidia/ai-computing/)
+  * [Technologies](https://www.nvidia.com/en-us/technologies/)
+  * [NVIDIA Research](https://www.nvidia.com/en-us/research/)
+  * [Investors](https://investor.nvidia.com/home/default.aspx)
+  * [Social Responsibility](https://www.nvidia.com/en-us/csr/)
+  * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
+
+
+
+Get Involved
+
+  * [Forums](https://www.nvidia.com/en-us/forums/)
+  * [Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+  * [Developer Home](https://developer.nvidia.com/)
+  * [Join the Developer Program](https://developer.nvidia.com/join)
+  * [NVIDIA Partner Network](https://www.nvidia.com/en-us/about-nvidia/partners/)
+  * [NVIDIA Inception](https://www.nvidia.com/en-us/deep-learning-ai/startups/)
+  * [Resources for Venture Capitalists](https://www.nvidia.com/en-us/deep-learning-ai/startups/venture-capital/)
+  * [Venture Capital (NVentures)](https://www.nventures.ai/)
+  * [Technical Training](https://www.nvidia.com/en-us/training/)
+  * [Training for IT Professionals](https://academy.nvidia.com/en/)
+  * [Professional Services for Data Science](https://www.nvidia.com/en-us/ai-data-science/professional-services/)
+
+
+
+News & Events
+
+  * [Newsroom](https://nvidianews.nvidia.com/)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [NVIDIA Technical Blog](https://developer.nvidia.com/blog/)
+  * [Webinars](https://www.nvidia.com/en-us/about-nvidia/webinar-portal/)
+  * [Stay Informed](https://www.nvidia.com/en-us/preferences/email-signup/)
+  * [Events Calendar](https://www.nvidia.com/en-us/events/)
+  * [NVIDIA GTC](https://www.nvidia.com/en-us/gtc/)
+  * [NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/)
+
+
+
+Sign Up for NVIDIA News
+
+[ Subscribe ](https://www.nvidia.com/en-us/preferences/email-signup/)
+
+Follow NVIDIA
+
+[ Facebook ](https://www.facebook.com/NVIDIA) [ ](https://twitter.com/nvidia) [ LinkedIn ](https://www.linkedin.com/company/nvidia) [ Instagram ](https://www.instagram.com/nvidia/?hl=en) [ YouTube ](https://www.youtube.com/user/nvidia)
+
+NVIDIA
+
+[ USA - United States  ](https://www.nvidia.com/en-us/location-selector/)
+
+  * [Privacy Policy](https://www.nvidia.com/en-us/about-nvidia/privacy-policy/)
+  * [Cookie Notice](https://nvidianews.nvidia.com/cookie-notice)
+  * Manage My Privacy
+  * [Legal](https://www.nvidia.com/en-us/about-nvidia/legal-info/)
+  * [Accessibility](https://www.nvidia.com/en-us/about-nvidia/accessibility/)
+  * [Product Security](https://www.nvidia.com/en-us/product-security/)
+  * [Contact](https://www.nvidia.com/en-us/contact/)
+
+
+
+Copyright © 2024 NVIDIA Corporation

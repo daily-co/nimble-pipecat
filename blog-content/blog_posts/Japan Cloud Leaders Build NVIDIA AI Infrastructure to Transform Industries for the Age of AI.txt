@@ -1,0 +1,285 @@
+# Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for the Age of AI
+
+[ Artificial Intelligence Computing Leadership from NVIDIA ](https://www.nvidia.com/en-us)
+
+[ ](/search)
+
+PLATFORMS
+
+[ ![Autonomous Machines](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/intelligent-machines.png) Autonomous Machines ](https://www.nvidia.com/en-us/autonomous-machines/)
+
+[ ![Cloud & Data Center](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/data-center.png) Cloud & Data Center ](https://www.nvidia.com/en-us/data-center/)
+
+[ ![Deep Learning & Ai](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/ai-deeplearning.png) Deep Learning & Ai ](https://www.nvidia.com/en-us/deep-learning-ai/)
+
+[ ![Design & Pro Visualization](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/design-visualization.png) Design & Pro Visualization ](https://www.nvidia.com/en-us/design-visualization/)
+
+[ ![Healthcare](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/healthcare.jpg) Healthcare ](https://www.nvidia.com/en-us/healthcare/)
+
+[ ![High Performance Computing](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/hpc-nvidia-mega-menu-image-hpc-188x106.jpg) High Performance Computing ](https://www.nvidia.com/en-us/high-performance-computing/)
+
+[ ![Self-Driving Cars](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/self-driving-cars.png) Self-Driving Cars ](https://www.nvidia.com/en-us/self-driving-cars/)
+
+[ ![Gaming & Entertainment](https://www.nvidia.com/content/dam/en-zz/Solutions/navigation/geforce.png) Gaming & Entertainment ](https://www.nvidia.com/en-us/geforce/)
+
+other links
+
+  * [Developers](https://developer.nvidia.com/)
+  * [Industries](https://www.nvidia.com/en-us/industries/)
+  * [Shop](https://www.nvidia.com/en-us/shop/)
+  * [Drivers](https://www.nvidia.com/Download/index.aspx?lang=en-us)
+  * [Support](https://www.nvidia.com/object/support.html)
+  * [About NVIDIA](https://www.nvidia.com/en-us/about-nvidia/)
+
+
+  * [View All Products](https://www.nvidia.com/page/products.html)
+  * [GPU TECHNOLOGY CONFERENCE](https://www.nvidia.com/en-us/gtc/)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [Community](https://www.nvidia.com/object/nvidia-communities.html)
+  * [Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+  * [TECHNOLOGIES](https://www.nvidia.com/en-us/technologies/)
+
+
+
+[ Newsroom ](/)
+
+[NVIDIA in Brief](/_gallery/get_file/?file_id=62acc991b3aed36cab48537d&ir=1&file_ext=.pdf)
+
+[Exec Bios](/bios)
+
+[NVIDIA Blog](https://blogs.nvidia.com/)
+
+[Podcast](https://blogs.nvidia.com/ai-podcast/)
+
+[Media Assets](/multimedia)
+
+[In the News](/in-the-news)
+
+[Press Contacts](/contacts)
+
+[Online Press Kits](/online-press-kit)
+
+  * [NVIDIA in Brief](/_gallery/get_file/?file_id=62acc991b3aed36cab48537d&ir=1&file_ext=.pdf)
+  * [Exec Bios](/bios)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [Podcast](https://blogs.nvidia.com/ai-podcast/)
+  * [Media Assets](/multimedia)
+  * [In the News](/in-the-news)
+  * [Press Contacts](/contacts)
+  * [Online Press Kits](/online-press-kit)
+
+
+
+Press Release 
+
+Share
+
+[ Tweet Twitter ](http://twitter.com/share?text=Japan%20Cloud%20Leaders%20Build%20NVIDIA%20AI%20Infrastructure%20to%20Transform%20Industries%20for%20the%20Age%20of%20AI&url=http://nvidianews.nvidia.com/news/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries)
+
+[ Share LinkedIn ](https://www.linkedin.com/shareArticle?mini=true&url=http://nvidianews.nvidia.com/news/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries)
+
+[ Share Facebook ](http://www.facebook.com/sharer.php?u=http://nvidianews.nvidia.com/news/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries)
+
+[ Email ](mailto:?subject=Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for the Age of AI=http://nvidianews.nvidia.com/news/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries)
+
+ic_arrow-back-to-top
+
+# Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for the Age of AI
+
+SoftBank Corp., GMO Internet Group, Highreso, KDDI, Rutilea and SAKURA Internet Adopt NVIDIA Accelerated Computing, Networking and Software to Advance Robotics, Auto, Healthcare, Telecom and Public Sector in Japan
+
+November 12, 2024 
+
+[ ![Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for the Age of AI](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/6733ed713d63323b366ffff9_japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai_mid.jpg) ](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai.jpg)
+
+**NVIDIA AI Summit Japan --**NVIDIA today announced that Japan cloud leaders SoftBank Corp., GMO Internet Group, Highreso, KDDI, Rutilea and SAKURA internet are building AI infrastructure with NVIDIA accelerated computing, networking and software to accelerate transformation across the nation's robotics, automotive, healthcare and telecom industries.
+
+The services from Japan's cloud providers are supported through a Japan Ministry of Economy, Trade and Industry (METI) program to supply critical compute resources across industries. The cloud providers are operating their AI data centers across the country's central, northern and western regions to support development with national and regional NVIDIA accelerated computing infrastructure.
+
+"Japan's companies stand to benefit tremendously from the new industrial revolution powered by AI," said Jensen Huang, founder and CEO of NVIDIA. "Company employees will supercharge their speed and productivity by automating work with AI agents. Industrial companies of tomorrow will operate dual factories -- new AI factories to produce software intelligence for the products and machines their factories make today. Working with NVIDIA, Japan's cloud providers are building the AI factories essential to reinvent the country's automotive, robotics, telecommunications and healthcare industries for the age of AI."
+
+**Japan Cloud Services Across Nation Support Industries With NVIDIA AI**  
+SoftBank Corp. has adopted the [NVIDIA Blackwell](https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/ "NVIDIA Blackwell") platforms to build Japan's most powerful AI supercomputers, including the world's first [NVIDIA DGX SuperPOD](https://www.nvidia.com/en-us/data-center/dgx-superpod/ "NVIDIA DGX SuperPOD")™ with [NVIDIA DGX B200](https://www.nvidia.com/en-us/data-center/dgx-b200/ "NVIDIA DGX B200") systems.
+
+SoftBank Corp. is using its NVIDIA AI infrastructure to accelerate a broad range of industries, including its subsidiary SB Intuitions, which is using NVIDIA AI for the research and development of high-performance [Japanese-native large language models](https://blogs.nvidia.com/blog/japan-tech-leaders-sovereign-ai-omniverse "Japanese-native large language models") (LLMs).
+
+GMO Internet Group is launching its GMO GPU Cloud, which will be the first local cloud offering in Japan featuring full-stack [NVIDIA H200 Tensor Core GPUs](https://www.nvidia.com/en-us/data-center/h200/ "NVIDIA H200 Tensor Core GPUs"), the [NVIDIA Spectrum-X™](https://www.nvidia.com/en-us/networking/spectrumx/ "NVIDIA Spectrum-X™") Ethernet platform for AI, [NVIDIA BlueField™-3 DPUs](https://www.nvidia.com/en-us/networking/products/data-processing-unit/ "NVIDIA BlueField™-3 DPUs") and the [NVIDIA AI Enterprise](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/ "NVIDIA AI Enterprise") software suite. Built on Dell PowerEdge servers, the service is expected to come online this month to provide cloud-based AI computing for businesses in Japan.
+
+GMO GPU Cloud customers will be able to use NVIDIA AI Enterprise software to accelerate their generative AI applications running in production on the platform.
+
+Highreso is accelerating AI development in Japan with the establishment of Highreso Kagawa, a dedicated AI data center powered by NVIDIA accelerated computing. Built with NVIDIA H200 Tensor Core GPUs, the Kagawa data center is expected to begin operations next month and will provide high-performance infrastructure for Highreso's GPUSOROBAN AI Supercomputer Cloud service.
+
+A second Highreso AI data center is scheduled to come online next summer. Together, they will provide researchers and businesses across Japan with access to 1,600 NVIDIA GPUs, helping foster AI development in manufacturing, research and educational institutes.
+
+KDDI is launching AI computing infrastructure built with [NVIDIA HGX](https://www.nvidia.com/en-us/data-center/hgx/ "NVIDIA HGX")™ systems to support generative AI and specialized LLM development in collaboration with its ELYZA business group. With NVIDIA software, KDDI customers can use the infrastructure to accelerate AI model training and inference, build digital twins and run simulation workloads for autonomous vehicles, robotic motion control and sensor data processing.
+
+KDDI is also planning a liquid-cooled data center that is expected to feature the [NVIDIA GB200 NVL72](https://www.nvidia.com/en-us/data-center/gb200-nvl72/ "NVIDIA GB200 NVL72") platform with NVIDIA GB200 Grace Blackwell Superchips.
+
+Rutilea, an NVIDIA Inception member based in Kyoto, is doubling the NVIDIA Hopper™ computing available in its AI cloud data center. The startup is providing more than 1,000 NVIDIA Hopper GPUs, which will be used for LLM development by customers building foundation models for animation, retail and food services, vision-based editing and data extraction.
+
+Additionally, Rutilea subsidiary AI Fukushima began operations of a new data center in Okuma, Fukushima, in September to support continued industry recovery following the 2011 Tohoku earthquake. AI Fukushima, which operates the infrastructure implemented by Rutilea, aims to contribute to the revitalization of the regional economy and local development by providing cutting-edge AI computing platforms.
+
+SAKURA internet plans to expand its Koukaryoku cloud services for generative AI from 2,000 to nearly 4,000 NVIDIA Hopper GPUs. It also plans to install [NVIDIA HGX B200](https://www.nvidia.com/en-us/data-center/hgx/ "NVIDIA HGX B200") infrastructure with Blackwell GPUs at its Ishikari data center, which is expected to be fully powered by renewable energy by 2027. SAKURA internet intends to provide approximately 10,800 GPUs as part of its high-performance AI computing offering.
+
+SAKURA internet customers include the National Institute of Informatics (NII), a public-sector research organization. NII has established the Research and Development Center for Large Language Models and is promoting collaboration among industry, government and academia in Japan through open generative AI research and development activities, including the development of Japanese-centric medical LLMs. Japan-based driving software startup TIER IV is also using NVIDIA-accelerated SAKURA internet computing in its vision to develop intelligent vehicles with its open-source software.
+
+**About NVIDIA**  
+[NVIDIA](https://www.nvidia.com/ "NVIDIA") (NASDAQ: NVDA) is the world leader in accelerated computing.
+
+Certain statements in this press release including, but not limited to, statements as to: the benefits, impact, and performance of NVIDIA's products, services, and technologies, including NVIDIA accelerated computing, NVIDIA Blackwell platforms, NVIDIA DGX SuperPOD, NVIDIA DGX B200 systems, NVIDIA H200 Tensor Core GPUs, NVIDIA Spectrum-X Ethernet platform, NVIDIA BlueField-3 DPUs, NVIDIA AI Enterprise software, NVIDIA HGX systems, NVIDIA GB200 NVL72 platform, and Grace Blackwell Superchips; third parties using or adopting our products and technologies, the benefits and impact thereof, and the features, performance and availability of their offerings; Japan's companies standing to benefit tremendously from the new industrial revolution powered by AI; company employees supercharging their speed and productivity by automating work with AI agents; industrial companies of tomorrow operating dual factories -- new AI factories to produce software intelligence for the products and machines their factories make today; and working with NVIDIA, Japan's cloud providers building the AI factories essential to reinvent the country's automotive, robotics, telecommunications and healthcare industries for the age of AI are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+Many of the products and features described herein remain in various stages and will be offered on a when-and-if-available basis. The statements above are not intended to be, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release, and timing of any features or functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no liability for failure to deliver or delay in the delivery of any of the products, features or functions set forth herein.
+
+(C) 2024 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, BlueField, NVIDIA DGX SuperPOD, NVIDIA HGX, NVIDIA Hopper and NVIDIA Spectrum-X are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability and specifications are subject to change without notice.  
+![](https://ml.globenewswire.com/media/MzA0OWY0ZWItODYyYS00OTlkLWIyZGQtM2EwMjc5ZDg2MDc1LTEwMTg0ODU=/tiny/NVIDIA-CORPORATION.png)
+
+##  Media Contacts
+
+Shannon McPhee
+
+NVIDIA Corporation
+
++1-310-920-9642
+
+[smcphee@nvidia.com](mailto:smcphee@nvidia.com)
+
+##  Downloads
+
+  * [ Download Press Release ](/_gallery/download_pdf/67340a3a3d633293fa0025a8/)
+  * [ Download Attachments ](/_gallery/get_files?page_id=67340a3a3d633293fa0025a8&include=pdf)
+
+
+
+##  More Images
+
+  * [ ![Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for AI](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/6733ed713d63323b366ffff9_japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai_mid.jpg) ](/file?fid=6733ed713d63323b366ffff9)
+
+#### Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for AI
+
+[Download / File Link](/_gallery/get_file/?file_id=6733ed713d63323b366ffff9)
+
+[ ![Japan Cloud Leaders Build NVIDIA AI Infrastructure to Transform Industries for AI](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/6733ed713d63323b366ffff9_japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai_s.jpg) ](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/6733ed713d63323b366ffff9_japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai/japan-cloud-leaders-build-nvidia-ai-infrastructure-to-transform-industries-for-ai_mid.jpg)
+
+[ ](/_gallery/get_file/?file_id=6733ed713d63323b366ffff9)
+
+
+
+
+##  More News
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/20238/64fb2f6c3d63327afeb2f77a_NVIDIA-logo-black/NVIDIA-logo-black_mid.jpg)
+
+###  [ NVIDIA to Open Vietnam R&D Center to Bolster AI Development ](/news/nvidia-to-open-vietnam-r-d-center-to-bolster-ai-development)
+
+December 5, 2024
+
+![](/media/themes/64d081263d633229694ae3db/images/NVIDIA-logo-BL.jpg)
+
+###  [ NVIDIA Announces Upcoming Events for Financial Community ](/news/nvidia-announces-upcoming-events-for-financial-community-6906508)
+
+November 21, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/66cf86f6ed6ae519a7aff483_nvidia-logo-exterior-park/nvidia-logo-exterior-park_mid.png)
+
+###  [ NVIDIA Announces Financial Results for Third Quarter Fiscal 2025 ](/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025)
+
+November 20, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/673aab433d6332640a65fb3f_nvidia-omniverse-blueprint/nvidia-omniverse-blueprint_mid.png)
+
+###  [ NVIDIA Announces Omniverse Real-Time Physics Digital Twins With Industry Software Leaders ](/news/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders)
+
+November 18, 2024
+
+![](https://s3.amazonaws.com/cms.ipressroom.com/219/files/202410/673aab513d633261c865fb40_nvidia-bionemo/nvidia-bionemo_mid.png)
+
+###  [ NVIDIA Opens BioNeMo to Scale Digital Biology for Global Biopharma and Scientific Industry ](/news/nvidia-opens-bionemo-to-scale-digital-biology-for-global-biopharma-and-scientific-industry)
+
+November 18, 2024
+
+**About NVIDIA**  
+[NVIDIA](https://www.nvidia.com/ "NVIDIA") (NASDAQ: NVDA) is the world leader in accelerated computing.
+
+Certain statements in this press release including, but not limited to, statements as to: the benefits, impact, and performance of NVIDIA's products, services, and technologies, including NVIDIA accelerated computing, NVIDIA Blackwell platforms, NVIDIA DGX SuperPOD, NVIDIA DGX B200 systems, NVIDIA H200 Tensor Core GPUs, NVIDIA Spectrum-X Ethernet platform, NVIDIA BlueField-3 DPUs, NVIDIA AI Enterprise software, NVIDIA HGX systems, NVIDIA GB200 NVL72 platform, and Grace Blackwell Superchips; third parties using or adopting our products and technologies, the benefits and impact thereof, and the features, performance and availability of their offerings; Japan's companies standing to benefit tremendously from the new industrial revolution powered by AI; company employees supercharging their speed and productivity by automating work with AI agents; industrial companies of tomorrow operating dual factories -- new AI factories to produce software intelligence for the products and machines their factories make today; and working with NVIDIA, Japan's cloud providers building the AI factories essential to reinvent the country's automotive, robotics, telecommunications and healthcare industries for the age of AI are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+
+Many of the products and features described herein remain in various stages and will be offered on a when-and-if-available basis. The statements above are not intended to be, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release, and timing of any features or functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no liability for failure to deliver or delay in the delivery of any of the products, features or functions set forth herein.
+
+(C) 2024 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, BlueField, NVIDIA DGX SuperPOD, NVIDIA HGX, NVIDIA Hopper and NVIDIA Spectrum-X are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability and specifications are subject to change without notice.  
+![](https://ml.globenewswire.com/media/MzA0OWY0ZWItODYyYS00OTlkLWIyZGQtM2EwMjc5ZDg2MDc1LTEwMTg0ODU=/tiny/NVIDIA-CORPORATION.png)
+
+##  Media Contacts
+
+Global contacts for media inquiries.
+
+[All Contacts](/contacts)
+
+##  Stay Informed
+
+Newsroom updates delivered to your inbox.
+
+[Subscribe](/alerts)
+
+Corporate Information
+
+  * [About NVIDIA](https://www.nvidia.com/en-us/about-nvidia/)
+  * [Corporate Overview](https://www.nvidia.com/en-us/about-nvidia/ai-computing/)
+  * [Technologies](https://www.nvidia.com/en-us/technologies/)
+  * [NVIDIA Research](https://www.nvidia.com/en-us/research/)
+  * [Investors](https://investor.nvidia.com/home/default.aspx)
+  * [Social Responsibility](https://www.nvidia.com/en-us/csr/)
+  * [NVIDIA Foundation](https://www.nvidia.com/en-us/foundation/)
+
+
+
+Get Involved
+
+  * [Forums](https://www.nvidia.com/en-us/forums/)
+  * [Careers](https://www.nvidia.com/en-us/about-nvidia/careers/)
+  * [Developer Home](https://developer.nvidia.com/)
+  * [Join the Developer Program](https://developer.nvidia.com/join)
+  * [NVIDIA Partner Network](https://www.nvidia.com/en-us/about-nvidia/partners/)
+  * [NVIDIA Inception](https://www.nvidia.com/en-us/deep-learning-ai/startups/)
+  * [Resources for Venture Capitalists](https://www.nvidia.com/en-us/deep-learning-ai/startups/venture-capital/)
+  * [Venture Capital (NVentures)](https://www.nventures.ai/)
+  * [Technical Training](https://www.nvidia.com/en-us/training/)
+  * [Training for IT Professionals](https://academy.nvidia.com/en/)
+  * [Professional Services for Data Science](https://www.nvidia.com/en-us/ai-data-science/professional-services/)
+
+
+
+News & Events
+
+  * [Newsroom](https://nvidianews.nvidia.com/)
+  * [NVIDIA Blog](https://blogs.nvidia.com/)
+  * [NVIDIA Technical Blog](https://developer.nvidia.com/blog/)
+  * [Webinars](https://www.nvidia.com/en-us/about-nvidia/webinar-portal/)
+  * [Stay Informed](https://www.nvidia.com/en-us/preferences/email-signup/)
+  * [Events Calendar](https://www.nvidia.com/en-us/events/)
+  * [NVIDIA GTC](https://www.nvidia.com/en-us/gtc/)
+  * [NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/)
+
+
+
+Sign Up for NVIDIA News
+
+[ Subscribe ](https://www.nvidia.com/en-us/preferences/email-signup/)
+
+Follow NVIDIA
+
+[ Facebook ](https://www.facebook.com/NVIDIA) [ ](https://twitter.com/nvidia) [ LinkedIn ](https://www.linkedin.com/company/nvidia) [ Instagram ](https://www.instagram.com/nvidia/?hl=en) [ YouTube ](https://www.youtube.com/user/nvidia)
+
+NVIDIA
+
+[ USA - United States  ](https://www.nvidia.com/en-us/location-selector/)
+
+  * [Privacy Policy](https://www.nvidia.com/en-us/about-nvidia/privacy-policy/)
+  * [Cookie Notice](https://nvidianews.nvidia.com/cookie-notice)
+  * Manage My Privacy
+  * [Legal](https://www.nvidia.com/en-us/about-nvidia/legal-info/)
+  * [Accessibility](https://www.nvidia.com/en-us/about-nvidia/accessibility/)
+  * [Product Security](https://www.nvidia.com/en-us/product-security/)
+  * [Contact](https://www.nvidia.com/en-us/contact/)
+
+
+
+Copyright © 2024 NVIDIA Corporation

@@ -1,0 +1,55 @@
+_Editor’s note: This post is part of the_[ _AI Decoded series_](https://blogs.nvidia.com/blog/tag/ai-decoded/) _, which demystifies AI by making the technology more accessible, and showcases new hardware, software, tools and accelerations for GeForce RTX PC and NVIDIA RTX workstation users._
+
+Generative AI has transformed the way people bring ideas to life. [Agentic AI](https://blogs.nvidia.com/blog/what-is-agentic-ai/) takes this one step further — using sophisticated, autonomous reasoning and iterative planning to help solve complex, multi-step problems.
+
+[AnythingLLM](https://anythingllm.com/) is a customizable open-source desktop application that lets users seamlessly integrate large language model (LLM) capabilities into various applications locally on their PCs. It enables users to harness AI for tasks such as content generation, summarization and more, tailoring tools to meet specific needs.
+
+Accelerated on [NVIDIA RTX](https://www.nvidia.com/en-us/geforce/rtx/) AI PCs, AnythingLLM has launched a new Community Hub where users can share prompts, slash commands and AI agent skills while experimenting with building and running AI agents locally.
+
+## **Autonomously Solve Complex, Multi-Step Problems With Agentic AI**
+
+AI agents can take chatbot capabilities further. They typically understand the context of the tasks and can analyze challenges and develop strategies — and some can even fully execute assigned tasks.
+
+For example, while a chatbot could answer a prompt asking for a restaurant recommendation, an AI agent could even surface the restaurant’s phone number for a reservation and add reminders to the user’s calendar.
+
+Agents help achieve big-picture goals and don’t get bogged down at the task level. There are many agentic apps in development to tackle to-do lists, manage schedules, help organize tasks, automate email replies, recommend personalized workout plans or plan trips.
+
+Once prompted, an AI agent can gather and process data from various sources, including databases. It can use an LLM for reasoning — for example, to understand the task — then generate solutions and specific functions. If integrated with external tools and software, an AI agent can next execute the task.
+
+Some sophisticated agents can even be improved through a feedback loop. When the data it generates is fed back into the system, the AI agent becomes smarter and faster.
+
+[![](https://blogs.nvidia.com/wp-content/uploads/2024/11/agentic-ai-systems.png)](https://blogs.nvidia.com/wp-content/uploads/2024/11/agentic-ai-systems.png)A step-by-step look at the process behind agentic AI systems. AI agents process user input, retrieve information from databases and other sources, and refine tasks in real time to deliver actionable results.
+
+Accelerated by NVIDIA RTX AI PCs, these agents can perform inferencing and execute tasks faster than any other PC. Users can operate the agent locally to help ensure data privacy, even without an internet connection.
+
+## **AnythingLLM: A Community Effort, Accelerated by RTX**
+
+The AI community is already diving into the possibilities of agentic AI, experimenting with ways to create smarter, more capable systems.
+
+Applications like [AnythingLLM](https://anythingllm.com/) let developers easily build, customize and unlock agentic AI with their favorite models — like Llama and Mistral — as well as with other tools, such as Ollama and LMStudio. AnythingLLM is accelerated on RTX-powered AI PCs and workstations with high-performance Tensor Cores, dedicated hardware that provides the compute performance needed to run the latest and most demanding AI models.
+
+AnythingLLM is designed to make working with AI seamless, productive and accessible to everyone. It allows users to chat with their documents using intuitive interfaces, use AI agents to handle complex and custom tasks, and run cutting-edge LLMs locally on RTX-powered PCs and workstations. This means unlocked access to local resources, tools and applications that typically can’t be integrated with cloud- or browser-based applications, or those that require extensive setup and knowledge to build. By tapping into the power of NVIDIA RTX GPUs, AnythingLLM delivers faster, smarter and more responsive AI for a variety of workflows — all within a single desktop application.
+
+[AnythingLLM’s Community Hub](https://hub.anythingllm.com) lets AI enthusiasts easily access system prompts that can help steer LLM behavior, discover productivity-boosting slash commands, build specialized AI agent skills for unique workflows and custom tools, and access on-device resources.
+
+[![](https://blogs.nvidia.com/wp-content/uploads/2024/11/user-invoking-agent-1680x1051.png)](https://blogs.nvidia.com/wp-content/uploads/2024/11/user-invoking-agent.png)Example of a user invoking the agent to complete a Web Search query.
+
+Some example agent skills that are available in the Community Hub include Microsoft Outlook email assistants, calendar agents, web searches and home assistant controllers, as well as agents for populating and even integrating custom application programming interface endpoints and services for a specific use case.
+
+By enabling AI enthusiasts to download, customize and use agentic AI workflows on their own systems with full privacy, AnythingLLM is fueling innovation and making it easier to experiment with the latest technologies — whether building a spreadsheet assistant or tackling more advanced workflows.
+
+Experience [AnythingLLM ](https://anythingllm.com/)now.
+
+## **Powered by People, Driven by Innovation**
+
+AnythingLLM showcases how AI can go beyond answering questions to actively enhancing productivity and creativity. Such applications illustrate AI’s move toward becoming an essential collaborator across workflows.
+
+Agentic AI’s potential applications are vast and require creativity, expertise and computing capabilities. NVIDIA RTX AI PCs deliver peak performance for running agents locally, whether accomplishing simple tasks like generating and distributing content, or managing more complex use cases such as orchestrating enterprise software.
+
+[Learn more](https://developer.nvidia.com/blog/introduction-to-llm-agents/) and get started with agentic AI.
+
+_Generative AI is transforming gaming, videoconferencing and interactive experiences of all kinds. Make sense of what’s new and what’s next by subscribing to the_[ _AI Decoded newsletter_](https://www.nvidia.com/en-us/ai-on-rtx/?modal=subscribe-ai) _._
+
+Categories: [Generative AI](https://blogs.nvidia.com/blog/category/generative-ai/)
+
+Tags: [AI Decoded](https://blogs.nvidia.com/blog/tag/ai-decoded/) | [Artificial Intelligence](https://blogs.nvidia.com/blog/tag/artificial-intelligence/) | [GeForce](https://blogs.nvidia.com/blog/tag/geforce/) | [NVIDIA RTX](https://blogs.nvidia.com/blog/tag/nvidia-rtx/)

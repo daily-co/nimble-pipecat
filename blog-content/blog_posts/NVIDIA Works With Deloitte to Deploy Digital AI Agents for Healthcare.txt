@@ -1,0 +1,56 @@
+_Editor’s note: The name of NIM Agent Blueprints was changed to NVIDIA Blueprints in October 2024. All references to the name have been updated in this blog._
+
+Ahead of a visit to the hospital for a surgical procedure, patients often have plenty of questions about what to expect — and can be plenty nervous.
+
+To help minimize presurgery jitters, Deloitte is enhancing its Quartz Frontline AI, an AI solution for customer service powered by NVIDIA AI, to now include AI agents to bring the next generation of digital, frontline teammates to patients before they even step foot inside the hospital.
+
+“The Frontline AI Teammate offers a novel and innovative solution to help combat our health human resource crisis.” — Mathieu LeBreton, digital experience lead at The Ottawa Hospital
+
+These virtual teammates, built with the [NVIDIA AI Enterprise](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/) software platform, can have natural, human-like conversations with patients, answer a wide range of questions and provide support prior to preadmission appointments at hospitals.
+
+Working with NVIDIA, Deloitte has added Frontline AI Teammate to its Quartz platform for use in settings like hospitals, where the digital avatar can have practical conversations — in multiple languages — that give the end user, such as a patient, instant answers to pressing questions.
+
+“Avatar-based conversational AI agents offer an incredible opportunity to reduce the productivity paradox that our healthcare system faces with digitization,” said Niraj Dalmia, partner at Deloitte Canada. “It could possibly be the complementary innovation that reduces administrative burden, complements our healthcare human resources to free up capacity and helps solve for patient experience challenges.”
+
+## **Next-Gen Technologies Powering Digital Humans**
+
+Digital human technology can provide lifelike interactions that can enhance experiences for doctors and patients.
+
+Deloitte’s Frontline AI Teammate, built with NVIDIA AI Enterprise and Deloitte’s Conversational AI Framework, is designed to deliver human-to-machine experiences in healthcare settings. Developed on the [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) platform, Deloitte’s lifelike avatar can respond to complex, domain-specific questions that are pivotal in healthcare delivery.
+
+Developers can tap into [NVIDIA NIM](https://www.nvidia.com/en-us/ai/) microservices, which streamline the path for developing AI-powered applications and moving AI models into production, to craft digital humans for healthcare industry applications.
+
+[NVIDIA Blueprints](https://build.nvidia.com/nvidia/digital-humans-for-customer-service) offer a customizable, reference AI workflow for creating interactive, AI-driven avatars that are ideal for telehealth — and include best practices for how to use [NVIDIA NeMo Retriever](https://www.nvidia.com/en-us/ai-data-science/products/nemo/), an industry-leading embedding, retrieval and re-ranking model that allows for fast responses based on up-to-date healthcare data.
+
+Customizable digital humans — like [James](https://developer.nvidia.com/ace/tokkio-showcase), an interactive demo developed by NVIDIA — can handle tasks such as scheduling appointments, filling out intake forms and answering questions about upcoming health services. This can make healthcare services more efficient while also improving patient access.
+
+In addition to NIM microservices, the James interactive demo also uses [NVIDIA ACE](https://developer.nvidia.com/ace) to provide natural, low-latency responses.
+
+[NVIDIA ACE](https://developer.nvidia.com/nvidia-omniverse-platform/ace) is a suite of AI, graphics and simulation technologies for bringing digital humans to life. It can integrate every aspect of a digital human into healthcare applications — from speech and translation abilities capable of understanding diverse accents and languages, to realistic animations of facial and body movements.
+
+## **Personalized Experiences for Hospital Patients****  
+**
+
+Patients can get overwhelmed with the amount of preoperative information. Typically, they have only one pre-admission appointment, often many weeks before the surgery, which can leave them with lingering questions and escalating concerns. The stress of a serious diagnosis may also prevent them from asking all the necessary questions during these brief interactions, leaving them without comprehensive knowledge about the appointment’s purpose, duration, location and necessary documents — and potentially leading to delays or even rescheduling of their surgeries.
+
+To enhance patient preparation and reduce pre-procedure anxiety, The Ottawa Hospital is using AI agents, powered by NVIDIA and Deloitte’s technologies, to provide more consistent, accurate and continuous access to information.
+
+With the Frontline AI teammate, patients can experience benefits including:
+
+  * 24/7 access to the digital teammate using a smartphone, tablet or home computer.
+  * Reliable, preapproved answers to detailed questions, including information around anesthesia or the procedure itself.
+  * Postsurgery consultation to resolve any questions about the recovery process, potentially improving treatment adherence and health outcomes.
+
+
+
+In user acceptance testing conducted this summer, a majority of the testers noted that responses provided were clear, relevant and met the needs of the given interaction.
+
+“The Frontline AI Teammate offers a novel and innovative solution to help combat our health human resource crisis — it has the potential to reduce the administrative burden, giving back time to healthcare providers to provide the quality care our population deserves and expects from The Ottawa Hospital,” said Mathieu LeBreton, digital experience lead at The Ottawa Hospital. “The opportunity to explore these technologies is well-timed, given the planning of the New Campus Development, a new hospital project in Ottawa. Proper identification of the problems we are trying to solve is imperative to ensure this is done responsibly and transparently.”
+
+Deloitte is working with other hospitals and healthcare institutions to deploy digital agents. A patient-facing pilot with Ottawa Hospital is expected to go live by the end of the year.
+
+Developers can get started by accessing the [digital human NVIDIA Blueprint](https://build.nvidia.com/nvidia/digital-humans-for-customer-service).
+
+Categories: [Generative AI](https://blogs.nvidia.com/blog/category/generative-ai/)
+
+Tags: [Artificial Intelligence](https://blogs.nvidia.com/blog/tag/artificial-intelligence/) | [Healthcare and Life Sciences](https://blogs.nvidia.com/blog/tag/healthcare-life-sciences/) | [NVIDIA AI Enterprise](https://blogs.nvidia.com/blog/tag/nvidia-ai-enterprise/) | [NVIDIA Blueprints](https://blogs.nvidia.com/blog/tag/nvidia-blueprints/) | [NVIDIA NIM](https://blogs.nvidia.com/blog/tag/nvidia-nim/) | [Omniverse](https://blogs.nvidia.com/blog/tag/omniverse/) | [Social Impact](https://blogs.nvidia.com/blog/tag/social-impact/)

@@ -1,0 +1,53 @@
+_Editor’s note: The name of NIM Agent Blueprints was changed to NVIDIA Blueprints in October 2024. All references to the name have been updated in this blog._
+
+Enterprises and public sector organizations around the world are developing AI agents to boost the capabilities of workforces that rely on visual information from a growing number of devices — including cameras, IoT sensors and vehicles.
+
+To support their work, a new [NVIDIA Blueprint for video search and summarization](https://build.nvidia.com/nvidia/video-search-and-summarization) will enable developers in virtually any industry to build visual AI agents that analyze video and image content. These agents can answer user questions, generate summaries and enable alerts for specific scenarios.
+
+Part of [NVIDIA Metropolis](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/), a set of developer tools for building vision AI applications, the blueprint is a customizable workflow that combines NVIDIA computer vision and generative AI technologies.
+
+Global systems integrators and technology solutions providers including [Accenture](https://www.linkedin.com/pulse/how-ai-powered-simulation-reinventing-industrial-tom-stuermer-p4nrc/?trackingId=rGFDOAUcSaqqmE11octnoA%3D%3D), Dell Technologies and [Lenovo](https://news.lenovo.com/lenovo-expands-generative-ai-solutions-for-smart-cities/) are bringing the NVIDIA Blueprint for visual search and summarization to businesses and cities worldwide, jump-starting the next wave of AI applications that can be deployed to boost productivity and safety in factories, warehouses, shops, airports, traffic intersections and more.
+
+Announced ahead of the [Smart City Expo World Congress](https://www.smartcityexpo.com/), the NVIDIA Blueprint gives visual computing developers a full suite of optimized software for building and deploying generative AI-powered agents that can ingest and understand massive volumes of live video streams or data archives.
+
+Users can customize these visual AI agents with natural language prompts instead of rigid software code, lowering the barrier to deploying virtual assistants across industries and smart city applications.
+
+## **NVIDIA Blueprint Harnesses Vision Language Models**
+
+Visual AI agents are powered by [vision language models (VLMs)](https://www.nvidia.com/en-us/glossary/vision-language-models/), a class of generative AI models that combine computer vision and language understanding to interpret the physical world and perform reasoning tasks.
+
+The NVIDIA Blueprint for video search and summarization can be configured with [NVIDIA NIM](https://www.nvidia.com/en-us/ai/) microservices for VLMs like [NVIDIA VILA](https://build.nvidia.com/nvidia/vila), LLMs like [Meta’s Llama 3.1 405B](https://build.nvidia.com/meta/llama-3_1-405b-instruct) and AI models for GPU-accelerated question answering and context-aware [retrieval-augmented generation](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/). Developers can easily swap in other VLMs, LLMs and graph databases and fine-tune them using the [NVIDIA NeMo](https://www.nvidia.com/en-us/ai-data-science/products/nemo/) platform for their unique environments and use cases.
+
+Adopting the NVIDIA Blueprint could save developers months of effort on investigating and optimizing generative AI models for smart city applications. Deployed on NVIDIA GPUs at the edge, on premises or in the cloud, it can vastly accelerate the process of combing through video archives to identify key moments.
+
+In a warehouse environment, an AI agent built with this workflow could alert workers if safety protocols are breached. At busy intersections, an AI agent could identify traffic collisions and generate reports to aid emergency response efforts. And in the field of public infrastructure, maintenance workers could ask AI agents to review aerial footage and identify degrading roads, train tracks or bridges to support proactive maintenance.
+
+Beyond smart spaces, visual AI agents could also be used to summarize videos for people with impaired vision, automatically generate recaps of sporting events and help label massive visual datasets to train other AI models.
+
+The video search and summarization workflow joins a [collection of NVIDIA Blueprints](https://build.nvidia.com/nim/agent-blueprints) that make it easy to [create AI-powered digital avatars](https://nvidianews.nvidia.com/news/nvidia-and-global-partners-launch-nim-agent-blueprints-for-enterprises-to-make-their-own-ai), [build virtual assistants](https://www.nvidia.com/en-us/ai-data-science/ai-workflows/) for personalized customer service and [extract enterprise insights](https://developer.nvidia.com/blog/build-an-enterprise-scale-multimodal-document-retrieval-pipeline-with-nvidia-nim-agent-blueprint/) from PDF data.
+
+NVIDIA Blueprints are free for developers to experience and download, and can be deployed in production across accelerated data centers and clouds with [NVIDIA AI Enterprise](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/), an end-to-end software platform that accelerates data science pipelines and streamlines generative AI development and deployment.
+
+## **AI Agents to Deliver Insights From Warehouses to World Capitals**
+
+Enterprise and public sector customers can also harness the full collection of NVIDIA Blueprints with the help of NVIDIA’s partner ecosystem.
+
+Global professional services company Accenture has integrated NVIDIA Blueprints into its Accenture AI Refinery, which is built on [NVIDIA AI Foundry](https://www.nvidia.com/en-us/ai/foundry/) and enables customers to develop custom AI models trained on enterprise data.
+
+Global systems integrators in Southeast Asia — including ITMAX in Malaysia and [FPT](https://fptsoftware.com/newsroom/news-and-press-releases/news/fpt-partners-with-nvidia-to-revolutionize-smart-city-inspections-with-advanced-ai) in Vietnam — are building AI agents based on the video search and summarization NVIDIA Blueprint for smart city and intelligent transportation applications.
+
+Developers can also build and deploy NVIDIA Blueprints on NVIDIA AI platforms with compute, networking and software provided by global server manufacturers.
+
+Dell will use VLM and agent approaches with Dell’s NativeEdge platform to enhance existing edge AI applications and create new edge AI-enabled capabilities. Dell Reference Designs for the Dell AI Factory with NVIDIA and the NVIDIA Blueprint for video search and summarization will support VLM capabilities in dedicated AI workflows for data center, edge and on-premises multimodal enterprise use cases.
+
+NVIDIA Blueprints are also incorporated in Lenovo Hybrid AI solutions powered by NVIDIA.
+
+Companies like [K2K](https://www.k2k.ai/ikm-state-of-the-art/transforming-smart-cities-with-ikm®-technology-powered-by-nvidia-ai-blueprints-and-metropolis), a smart city application provider in the NVIDIA Metropolis ecosystem, will use the new NVIDIA Blueprint to build AI agents that analyze live traffic cameras in real time. This will enable city officials to ask questions about street activity and receive recommendations on ways to improve operations. The company also is working with city traffic managers in Palermo, Italy, to deploy visual AI agents using NIM microservices and NVIDIA Blueprints.
+
+Discover more about the NVIDIA Blueprint for video search and summarization by visiting the NVIDIA booth at the Smart Cities Expo World Congress, taking place in Barcelona through Nov. 7.
+
+Learn [how to build a visual AI agent](https://developer.nvidia.com/blog/build-a-video-search-and-summarization-agent-with-nvidia-ai-blueprint/) and [get started with the blueprint](https://build.nvidia.com/nvidia/video-search-and-summarization).
+
+Categories: [Generative AI](https://blogs.nvidia.com/blog/category/generative-ai/) | [Robotics](https://blogs.nvidia.com/blog/category/robotics/)
+
+Tags: [Artificial Intelligence](https://blogs.nvidia.com/blog/tag/artificial-intelligence/) | [Computer Vision](https://blogs.nvidia.com/blog/tag/computer-vision/) | [Digital Twin](https://blogs.nvidia.com/blog/tag/digital-twin/) | [Industrial and Manufacturing](https://blogs.nvidia.com/blog/tag/industrial-manufacturing/) | [Metropolis](https://blogs.nvidia.com/blog/tag/metropolis/) | [NVIDIA AI Enterprise](https://blogs.nvidia.com/blog/tag/nvidia-ai-enterprise/) | [NVIDIA Blueprints](https://blogs.nvidia.com/blog/tag/nvidia-blueprints/) | [NVIDIA NIM](https://blogs.nvidia.com/blog/tag/nvidia-nim/) | [Smart Spaces](https://blogs.nvidia.com/blog/tag/smart-spaces/) | [Synthetic Data Generation](https://blogs.nvidia.com/blog/tag/synthetic-data-generation/)
