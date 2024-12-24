@@ -36,7 +36,8 @@ source .env
 python3.12 -m venv venv
 source venv/bin/activate
 pip install "git+https://github.com/pipecat-ai/pipecat.git@main"
-# pip install "pipecat-ai[daily,openai,riva,silero]"
+pip install "pipecat-ai[daily,openai,riva,silero]"
+pip install noaa_sdk
 python 001-hello-pipecat-nim.py
 ```
 
