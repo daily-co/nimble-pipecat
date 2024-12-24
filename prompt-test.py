@@ -21,7 +21,6 @@ from pipecat.services.nim import NimLLMService
 from pipecat.services.riva import ParakeetSTTService
 from pipecat.transports.services.daily import DailyParams, DailyTransport
 from pipecat.services.cartesia import CartesiaTTSService
-from pipecat.utils.text.markdown_text_filter import MarkdownTextFilter
 
 load_dotenv(override=True)
 
@@ -70,12 +69,12 @@ async def main():
 
     stt = ParakeetSTTService(api_key=os.getenv("NVIDIA_API_KEY"))
 
-    llm = NimLLMService(api_key=os.getenv("NVIDIA_API_KEY"))
+    llm = NimLLMService(api_key=os.getenv("NVIDIA_API_KEY"), model="meta/llama-3.3-70b-instruct")
 
     # tts = FastPitchTTSService(api_key=os.getenv("NVIDIA_API_KEY"), text_filter=MarkdownTextFilter())
     tts = CartesiaTTSService(
         api_key=os.getenv("CARTESIA_API_KEY"),
-        text_filter=MarkdownTextFilter(),
+        # text_filter=MarkdownTextFilter(),
         voice_id="79a125e8-cd45-4c13-8a67-188112f4dd22",  # British Lady
     )
 
