@@ -21,6 +21,7 @@ from pipecat.services.nim import NimLLMService
 from pipecat.services.riva import ParakeetSTTService
 from pipecat.transports.services.daily import DailyParams, DailyTransport
 from pipecat.services.cartesia import CartesiaTTSService
+from pipecat.utils.text.markdown_text_filter import MarkdownTextFilter
 
 load_dotenv(override=True)
 
@@ -53,7 +54,7 @@ async def main():
         return None
 
     # Url to talk to the NVIDIA NIM bot
-    room_url = "https://pc-34b1bdc94a7741719b57b2efb82d658e.daily.co/prod-test"
+    room_url = "https://kwindla.daily.co/hackathon"
 
     transport = DailyTransport(
         room_url,
@@ -71,9 +72,10 @@ async def main():
 
     llm = NimLLMService(api_key=os.getenv("NVIDIA_API_KEY"))
 
-    # tts = FastPitchTTSService(api_key=os.getenv("NVIDIA_API_KEY"))
+    # tts = FastPitchTTSService(api_key=os.getenv("NVIDIA_API_KEY"), text_filter=MarkdownTextFilter())
     tts = CartesiaTTSService(
         api_key=os.getenv("CARTESIA_API_KEY"),
+        text_filter=MarkdownTextFilter(),
         voice_id="79a125e8-cd45-4c13-8a67-188112f4dd22",  # British Lady
     )
 

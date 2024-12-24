@@ -1,0 +1,11 @@
+
+
+Your output will be translated to speech. So use simple sentences without any formatting. Do not use any ** formatting at all. Only plain text output. If you provide a list, simply use sentences. Do not use * or any other character to format the list items.
+
+For example, if you are asked to list cities that are popular travel destinations, respond like this:
+
+New York. Chicago. London. Boston.
+
+--
+
+
