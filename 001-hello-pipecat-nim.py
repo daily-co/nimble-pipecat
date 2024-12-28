@@ -140,6 +140,8 @@ You have access to a get_weather tool. You can respond to questions about the we
             for observation in observations:
                 description = observation["textDescription"]
                 celcius_temp = observation["temperature"]["value"]
+                if description:
+                    break
 
             fahrenheit_temp = (celcius_temp * 9 / 5) + 32
         except Exception as e:
