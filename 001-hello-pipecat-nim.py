@@ -25,10 +25,15 @@ from pipecat.pipeline.pipeline import Pipeline
 from pipecat.pipeline.runner import PipelineRunner
 from pipecat.pipeline.task import PipelineParams, PipelineTask
 from pipecat.processors.aggregators.openai_llm_context import OpenAILLMContext
-from pipecat.services.nim import NimLLMService
-from pipecat.services.riva import FastPitchTTSService, ParakeetSTTService
+from pipecat.services.llm_service import FunctionCallParams
+from pipecat.services.nim.llm import NimLLMService
+from pipecat.services.riva.stt import RivaSTTService
+from pipecat.services.riva.tts import RivaTTSService
 from pipecat.transports.services.daily import DailyParams, DailyTransport
-from pipecat.transports.services.helpers.daily_rest import DailyRESTHelper, DailyRoomParams
+from pipecat.transports.services.helpers.daily_rest import (
+    DailyRESTHelper,
+    DailyRoomParams,
+)
 
 logger.remove(0)
 logger.add(sys.stderr, level="DEBUG")
@@ -48,9 +53,7 @@ async def main():
         )
 
         room_config = await daily_rest_helper.create_room(
-            DailyRoomParams(
-                properties={"enable_prejoin_ui":False}
-            )
+            DailyRoomParams(properties={"enable_prejoin_ui": False})
         )
         # Url to talk to the NVIDIA NIM Agent
         room_url = room_config.url
@@ -58,9 +61,7 @@ async def main():
         print("___________________________________*")
         print("___________________________________*")
         print("___________________________________* Navigate to")
-        print(
-            f"___________________________________* {room_url}"
-        )
+        print(f"___________________________________* {room_url}")
         print("___________________________________* to talk to NVIDIA NIM Agent Lydia.")
         print("___________________________________*")
         print("___________________________________*")
@@ -70,32 +71,36 @@ async def main():
             None,
             "Lydia",
             DailyParams(
+                audio_in_enabled=True,
                 audio_out_enabled=True,
-                vad_enabled=True,
                 vad_analyzer=SileroVADAnalyzer(),
-                vad_audio_passthrough=True,
+                audio_in_passthrough=True,
             ),
         )
 
-        stt = ParakeetSTTService(api_key=os.getenv("NVIDIA_API_KEY"))
+        stt = RivaSTTService(api_key=os.getenv("NVIDIA_API_KEY"))
 
-        llm = NimLLMService(api_key=os.getenv("NVIDIA_API_KEY"), model="meta/llama-3.3-70b-instruct")
+        llm = NimLLMService(
+            api_key=os.getenv("NVIDIA_API_KEY"), model="meta/llama-3.3-70b-instruct"
+        )
 
-        tts = FastPitchTTSService(api_key=os.getenv("NVIDIA_API_KEY"))
+        tts = RivaTTSService(
+            api_key=os.getenv("NVIDIA_API_KEY"),
+            voice_id="Magpie-Multilingual.EN-US.Sofia",
+        )
 
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
         ## tool calling
-        async def start_fetch_weather(function_name, llm, context):
-            print(f"Starting fetch_weather_from_api with function_name: {function_name}")
-
         async def get_noaa_simple_weather(latitude: float, longitude: float, **kwargs):
             print(f"NOAA get simple weather for '{latitude}, {longitude}'")
             n = NOAA()
             description = False
             fahrenheit_temp = 0
             try:
-                observations = n.get_observations_by_lat_lon(latitude, longitude, num_of_stations=1)
+                observations = n.get_observations_by_lat_lon(
+                    latitude, longitude, num_of_stations=1
+                )
                 for observation in observations:
                     description = observation["textDescription"]
                     celsius_temp = observation["temperature"]["value"]
@@ -112,16 +117,20 @@ async def main():
 
             return description, fahrenheit_temp
 
-        async def fetch_weather_from_api(
-            function_name, tool_call_id, args, llm, context, result_callback
-        ):
+        async def fetch_weather_from_api(params: FunctionCallParams):
+            args = params.arguments
+            result_callback = params.result_callback
             location = args["location"]
             latitude = float(args["latitude"])
             longitude = float(args["longitude"])
-            print(f"fetch_weather_from_api * location: {location}, lat & lon: {latitude}, {longitude}")
+            print(
+                f"fetch_weather_from_api * location: {location}, lat & lon: {latitude}, {longitude}"
+            )
 
             if latitude and longitude:
-                description, fahrenheit_temp = await get_noaa_simple_weather(latitude, longitude)
+                description, fahrenheit_temp = await get_noaa_simple_weather(
+                    latitude, longitude
+                )
             else:
                 return await result_callback("Sorry, I don't recognize that location.")
 
@@ -162,19 +171,19 @@ async def main():
             ),
         ]
 
-        llm.register_function(None, fetch_weather_from_api, start_callback=start_fetch_weather)
+        llm.register_function("get_weather", fetch_weather_from_api)
 
         context = OpenAILLMContext(messages, tools)
         context_aggregator = llm.create_context_aggregator(context)
 
         pipeline = Pipeline(
             [
-                transport.input(),               # Transport user input
-                stt,                             # STT
-                context_aggregator.user(),       # User responses
-                llm,                             # LLM
-                tts,                             # TTS
-                transport.output(),              # Transport bot output
+                transport.input(),  # Transport user input
+                stt,  # STT
+                context_aggregator.user(),  # User responses
+                llm,  # LLM
+                tts,  # TTS
+                transport.output(),  # Transport bot output
                 context_aggregator.assistant(),  # Assistant spoken responses
             ]
         )
