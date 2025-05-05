@@ -16,10 +16,10 @@ Launch from [here](https://console.brev.dev/launchable/deploy?launchableID=env-2
 
 ### Setup JupyterLab
 ```bash
-python3.12 -m venv venv
+python3.13 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python -m ipykernel install --user --name=venv --display-name "Python3.12"
+python -m ipykernel install --user --name=venv --display-name "Python3.13"
 ```
 
 ### Setup environment
@@ -43,7 +43,7 @@ For convenience, a standalone pipecat can be found [here](./001-hello-pipecat-ni
 
 ```bash
 source .env
-python3.12 -m venv venv
+python3.13 -m venv venv
 source venv/bin/activate
 pip install "pipecat-ai[daily,openai,riva,silero]" noaa_sdk python-dotenv
 python 001-hello-pipecat-nim.py
