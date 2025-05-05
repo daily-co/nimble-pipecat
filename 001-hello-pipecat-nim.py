@@ -25,6 +25,7 @@ from pipecat.pipeline.pipeline import Pipeline
 from pipecat.pipeline.runner import PipelineRunner
 from pipecat.pipeline.task import PipelineParams, PipelineTask
 from pipecat.processors.aggregators.openai_llm_context import OpenAILLMContext
+from pipecat.services.llm_service import FunctionCallParams
 from pipecat.services.nim.llm import NimLLMService
 from pipecat.services.riva.stt import RivaSTTService
 from pipecat.services.riva.tts import RivaTTSService
@@ -91,11 +92,6 @@ async def main():
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
         ## tool calling
-        async def start_fetch_weather(function_name, llm, context):
-            print(
-                f"Starting fetch_weather_from_api with function_name: {function_name}"
-            )
-
         async def get_noaa_simple_weather(latitude: float, longitude: float, **kwargs):
             print(f"NOAA get simple weather for '{latitude}, {longitude}'")
             n = NOAA()
@@ -121,9 +117,9 @@ async def main():
 
             return description, fahrenheit_temp
 
-        async def fetch_weather_from_api(
-            function_name, tool_call_id, args, llm, context, result_callback
-        ):
+        async def fetch_weather_from_api(params: FunctionCallParams):
+            args = params.arguments
+            result_callback = params.result_callback
             location = args["location"]
             latitude = float(args["latitude"])
             longitude = float(args["longitude"])
@@ -175,9 +171,7 @@ async def main():
             ),
         ]
 
-        llm.register_function(
-            None, fetch_weather_from_api, start_callback=start_fetch_weather
-        )
+        llm.register_function("get_weather", fetch_weather_from_api)
 
         context = OpenAILLMContext(messages, tools)
         context_aggregator = llm.create_context_aggregator(context)
