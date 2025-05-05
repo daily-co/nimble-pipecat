@@ -25,8 +25,9 @@ from pipecat.pipeline.pipeline import Pipeline
 from pipecat.pipeline.runner import PipelineRunner
 from pipecat.pipeline.task import PipelineParams, PipelineTask
 from pipecat.processors.aggregators.openai_llm_context import OpenAILLMContext
-from pipecat.services.nim import NimLLMService
-from pipecat.services.riva import FastPitchTTSService, ParakeetSTTService
+from pipecat.services.nim.llm import NimLLMService
+from pipecat.services.riva.stt import RivaSTTService
+from pipecat.services.riva.tts import RivaTTSService
 from pipecat.transports.services.daily import DailyParams, DailyTransport
 from pipecat.transports.services.helpers.daily_rest import DailyRESTHelper, DailyRoomParams
 
@@ -70,18 +71,18 @@ async def main():
             None,
             "Lydia",
             DailyParams(
+                audio_in_enabled=True,
                 audio_out_enabled=True,
-                vad_enabled=True,
                 vad_analyzer=SileroVADAnalyzer(),
-                vad_audio_passthrough=True,
+                audio_in_passthrough=True,
             ),
         )
 
-        stt = ParakeetSTTService(api_key=os.getenv("NVIDIA_API_KEY"))
+        stt = RivaSTTService(api_key=os.getenv("NVIDIA_API_KEY"))
 
         llm = NimLLMService(api_key=os.getenv("NVIDIA_API_KEY"), model="meta/llama-3.3-70b-instruct")
 
-        tts = FastPitchTTSService(api_key=os.getenv("NVIDIA_API_KEY"))
+        tts = RivaTTSService(api_key=os.getenv("NVIDIA_API_KEY"))
 
         messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
